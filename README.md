@@ -1,22 +1,9 @@
-# Belajar Ceria Tahun 1 — Versi 3
+# Belajar Ceria Tahun 1 — Versi 3.1
 
-Versi ini menambah kandungan latihan original yang lebih lengkap untuk:
-- Bahasa Melayu — 12 unit
-- English Year 1 — 9 unit (Super Minds-inspired)
-- Matematik — 8 unit
-- Sains — 10 unit
+Versi pembaikan untuk GitHub Pages. Kandungan 4 subjek menggunakan fail JSON di root.
 
-Jumlah: 39 unit latihan.
-
-Setiap unit mempunyai:
-- penerangan ringkas,
-- aktiviti,
-- poin pembelajaran,
-- kuiz pilihan jawapan,
-- XP, bintang dan kemajuan.
-
-## Nota kurikulum
-Struktur topik disusun berdasarkan bahan Tahun 1 yang dirujuk semasa pembangunan. Ia bukan salinan teks buku. Untuk penggunaan rasmi sekolah, semak tajuk dan susunan unit dengan edisi buku teks/Dokumen Standard Kurikulum dan Pentaksiran (DSKP) yang digunakan sekolah.
-
-## Upload ke GitHub
-Upload semua fail dalam ZIP ini ke root repository dan pilih Replace untuk fail yang sama. Jangan masukkan fail ke dalam folder tambahan.
+## Penting
+- `app.js` dan fail JSON menggunakan cache-busting `?v=31` supaya GitHub Pages/Safari tidak terus memaparkan kandungan lama.
+- Semua fail berada di root repository.
+- Jika selepas upload masih nampak kandungan lama, tunggu deployment GitHub Pages selesai kemudian reload Safari.
+- Kandungan adalah bahan latihan original dan bukan salinan teks buku. Semak dengan DSKP/buku teks sekolah untuk penggunaan rasmi.
