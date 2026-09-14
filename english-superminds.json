@@ -8,24 +8,29 @@
       "id": "en0",
       "title": "Unit 0 — Friends",
       "learn": "Greetings, names, classroom language and simple introductions.",
-      "activity": "Say hello and introduce yourself.",
+      "activity": "Say hello, introduce yourself and ask a friend’s name.",
+      "points": [
+        "hello / goodbye",
+        "My name is…",
+        "How are you?"
+      ],
       "quiz": [
         [
           "Choose the correct greeting.",
           [
-            "Goodbye!",
             "Hello!",
+            "Goodbye!",
             "Sorry!",
             "Thanks!"
           ],
-          1
+          0
         ],
         [
-          "Complete: My ___ is Sam.",
+          "Complete: My ___ is Mia.",
           [
             "name",
             "book",
-            "red",
+            "blue",
             "school"
           ],
           0
@@ -46,7 +51,12 @@
       "id": "en1",
       "title": "Unit 1 — At School",
       "learn": "Classroom objects, colours and simple instructions.",
-      "activity": "Find and name objects around the classroom.",
+      "activity": "Point to five classroom objects and say their names.",
+      "points": [
+        "book, bag, pen, ruler",
+        "basic colours",
+        "sit down / stand up"
+      ],
       "quiz": [
         [
           "What is this? 📘",
@@ -84,7 +94,12 @@
       "id": "en2",
       "title": "Unit 2 — Let’s Play",
       "learn": "Toys, games and simple action words.",
-      "activity": "Name toys and say what you can do.",
+      "activity": "Name a toy and say one thing you can do.",
+      "points": [
+        "ball, doll, kite",
+        "I can…",
+        "play / run / jump"
+      ],
       "quiz": [
         [
           "Which is a toy?",
@@ -112,17 +127,22 @@
       "id": "en3",
       "title": "Unit 3 — Pet Show",
       "learn": "Pets, animals and simple descriptions.",
-      "activity": "Describe an animal using a colour or size.",
+      "activity": "Describe an animal with a colour or size.",
+      "points": [
+        "cat, dog, fish, bird",
+        "big / small",
+        "It is…"
+      ],
       "quiz": [
         [
-          "Which is a pet?",
+          "Which is a common pet?",
           [
-            "tiger",
             "cat",
-            "elephant",
-            "shark"
+            "shark",
+            "whale",
+            "tiger"
           ],
-          1
+          0
         ],
         [
           "A small dog is…",
@@ -140,7 +160,12 @@
       "id": "en4",
       "title": "Unit 4 — Lunchtime",
       "learn": "Food, drinks and simple likes/dislikes.",
-      "activity": "Talk about food you like.",
+      "activity": "Make a mini lunch menu and say what you like.",
+      "points": [
+        "food and drinks",
+        "I like…",
+        "I don’t like…"
+      ],
       "quiz": [
         [
           "Which is a drink?",
@@ -161,6 +186,138 @@
             "school"
           ],
           0
+        ]
+      ]
+    },
+    {
+      "id": "en5",
+      "title": "Unit 5 — Free Time",
+      "learn": "Days of the week and activities in free time.",
+      "activity": "Make a simple weekly activity chart.",
+      "points": [
+        "days of the week",
+        "play football / read / swim",
+        "Do you…?"
+      ],
+      "quiz": [
+        [
+          "Which is a day?",
+          [
+            "Monday",
+            "Apple",
+            "Blue",
+            "School"
+          ],
+          0
+        ],
+        [
+          "Complete: I ___ TV.",
+          [
+            "watch",
+            "eat",
+            "red",
+            "book"
+          ],
+          0
+        ]
+      ]
+    },
+    {
+      "id": "en6",
+      "title": "Unit 6 — The Old House",
+      "learn": "Rooms in a house and simple there is / there are sentences.",
+      "activity": "Draw a house and label three rooms.",
+      "points": [
+        "house, bedroom, bathroom",
+        "There is…",
+        "There are…"
+      ],
+      "quiz": [
+        [
+          "Where do you sleep?",
+          [
+            "bedroom",
+            "kitchen",
+            "garden",
+            "garage"
+          ],
+          0
+        ],
+        [
+          "Complete: There ___ a bed.",
+          [
+            "is",
+            "are",
+            "am",
+            "be"
+          ],
+          0
+        ]
+      ]
+    },
+    {
+      "id": "en7",
+      "title": "Unit 7 — Get Dressed",
+      "learn": "Clothes and simple descriptions of what someone is wearing.",
+      "activity": "Choose clothes for a rainy day.",
+      "points": [
+        "shirt, trousers, shoes",
+        "I’m wearing…",
+        "colours"
+      ],
+      "quiz": [
+        [
+          "Which one is clothing?",
+          [
+            "shirt",
+            "apple",
+            "chair",
+            "fish"
+          ],
+          0
+        ],
+        [
+          "Complete: I’m wearing a ___.",
+          [
+            "hat",
+            "run",
+            "seven",
+            "blue"
+          ],
+          0
+        ]
+      ]
+    },
+    {
+      "id": "en8",
+      "title": "Unit 8 — The Body",
+      "learn": "Basic body parts and simple movement words.",
+      "activity": "Label a body picture and say five body parts.",
+      "points": [
+        "head, eyes, ears, nose, hands",
+        "This is my…",
+        "move / touch"
+      ],
+      "quiz": [
+        [
+          "We see with our…",
+          [
+            "eyes",
+            "ears",
+            "feet",
+            "hands"
+          ],
+          0
+        ],
+        [
+          "We hear with our…",
+          [
+            "nose",
+            "ears",
+            "eyes",
+            "mouth"
+          ],
+          1
         ]
       ]
     }

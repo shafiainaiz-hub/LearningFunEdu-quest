@@ -6,103 +6,405 @@
   "units": [
     {
       "id": "bm1",
-      "title": "Unit 1 — Diri Saya",
-      "learn": "Mengenal diri, nama, anggota badan dan ayat mudah.",
-      "activity": "Bina ayat mudah tentang diri sendiri.",
+      "title": "Unit 1 — Saya Sayang akan Keluarga",
+      "learn": "Mengenal ahli keluarga, kata sapaan dan ayat mudah tentang keluarga.",
+      "activity": "Lukis keluarga dan bina tiga ayat mudah.",
+      "points": [
+        "Kenal kosa kata keluarga.",
+        "Gunakan kata sapaan yang sesuai.",
+        "Bina ayat mudah dengan huruf besar dan tanda noktah."
+      ],
       "quiz": [
         [
-          "Apakah huruf pertama bagi perkataan “ayam”?",
+          "Ibu kepada ibu kita ialah…",
           [
-            "A",
-            "B",
-            "C",
-            "D"
+            "nenek",
+            "kakak",
+            "adik",
+            "jiran"
           ],
           0
         ],
         [
           "Pilih ayat yang betul.",
           [
-            "Saya nama Ali.",
+            "Saya Ali nama.",
             "Nama saya Ali.",
-            "Ali saya nama.",
-            "Nama Ali saya."
+            "Ali nama saya?",
+            "nama Saya Ali."
           ],
           1
         ],
         [
-          "Anggota badan untuk melihat ialah…",
+          "Siapakah lelaki yang menjadi bapa kita?",
           [
-            "telinga",
-            "hidung",
-            "mata",
-            "tangan"
+            "ayah",
+            "kakak",
+            "nenek",
+            "adik"
           ],
-          2
+          0
         ]
       ]
     },
     {
       "id": "bm2",
-      "title": "Unit 2 — Keluarga",
-      "learn": "Mengenal ahli keluarga dan menggunakan kata nama yang sesuai.",
-      "activity": "Padankan ahli keluarga dengan peranannya.",
+      "title": "Unit 2 — Mari Sayang",
+      "learn": "Belajar menunjukkan kasih sayang melalui perbuatan dan tutur kata yang baik.",
+      "activity": "Pilih satu perbuatan baik dan ceritakan kepada rakan.",
+      "points": [
+        "Gunakan perkataan tolong, maaf dan terima kasih.",
+        "Kenal perbuatan penyayang.",
+        "Bercakap dengan sopan."
+      ],
       "quiz": [
         [
-          "Ibu kepada ibu kita ialah…",
+          "Apakah ucapan selepas menerima bantuan?",
           [
-            "kakak",
-            "nenek",
-            "adik",
-            "mak cik"
+            "Maaf",
+            "Terima kasih",
+            "Selamat malam",
+            "Jumpa lagi"
           ],
           1
         ],
         [
-          "Ayat yang sesuai ialah…",
+          "Perbuatan manakah menunjukkan kasih sayang?",
           [
-            "Ini ayah saya.",
-            "Ini ayah saya?",
-            "ini AYAH.",
-            "Ayah ini?"
+            "menjerit",
+            "membantu ibu",
+            "menolak rakan",
+            "membuang sampah merata-rata"
+          ],
+          1
+        ]
+      ]
+    },
+    {
+      "id": "bm3",
+      "title": "Unit 3 — Balik ke Kampung",
+      "learn": "Membina kosa kata berkaitan kampung, perjalanan dan aktiviti bersama keluarga.",
+      "activity": "Ceritakan perjalanan balik kampung menggunakan tiga ayat.",
+      "points": [
+        "Kosa kata tempat dan perjalanan.",
+        "Susunan cerita mudah.",
+        "Ayat penyata ringkas."
+      ],
+      "quiz": [
+        [
+          "Tempat tinggal datuk dan nenek boleh dipanggil…",
+          [
+            "kampung",
+            "kelas",
+            "kantin",
+            "padang"
           ],
           0
         ],
         [
-          "Siapakah adik kepada ibu?",
+          "Pilih ayat yang sesuai.",
           [
-            "pak cik",
-            "datuk",
-            "nenek",
-            "abang"
+            "Kami balik ke kampung.",
+            "Kami kampung balik ke.",
+            "Balik kampung kami?",
+            "ke kami kampung."
           ],
           0
         ]
       ]
     },
     {
-      "id": "bm3",
-      "title": "Unit 3 — Sekolah",
-      "learn": "Kosa kata berkaitan sekolah dan komunikasi sopan.",
-      "activity": "Kenal pasti objek di dalam kelas.",
+      "id": "bm4",
+      "title": "Unit 4 — Kenali Jiran",
+      "learn": "Mengenal jiran dan menggunakan bahasa sopan dalam komuniti.",
+      "activity": "Buat dialog ringkas memberi salam kepada jiran.",
+      "points": [
+        "Kosa kata jiran dan kawasan rumah.",
+        "Memberi salam.",
+        "Bertutur sopan."
+      ],
       "quiz": [
         [
-          "Tempat murid belajar ialah…",
+          "Orang yang tinggal berdekatan rumah kita ialah…",
           [
-            "dapur",
-            "kelas",
-            "taman",
-            "garaj"
+            "jiran",
+            "guru",
+            "doktor",
+            "penjual"
+          ],
+          0
+        ],
+        [
+          "Ucapan yang sesuai apabila bertemu jiran ialah…",
+          [
+            "Selamat pagi.",
+            "Diam!",
+            "Pergi sana.",
+            "Jangan datang."
+          ],
+          0
+        ]
+      ]
+    },
+    {
+      "id": "bm5",
+      "title": "Unit 5 — Kawan-kawan",
+      "learn": "Mengenal sifat rakan dan membina ayat tentang persahabatan.",
+      "activity": "Tulis dua sifat baik seorang kawan.",
+      "points": [
+        "Kata adjektif mudah.",
+        "Ayat tentang rakan.",
+        "Menghormati perbezaan."
+      ],
+      "quiz": [
+        [
+          "Pilih sifat yang baik.",
+          [
+            "pemarah",
+            "rajin",
+            "kasar",
+            "malas"
           ],
           1
         ],
         [
-          "Ucapan sesuai apabila bertemu guru pada pagi hari ialah…",
+          "Ayat yang betul ialah…",
           [
-            "Selamat pagi, cikgu.",
-            "Selamat malam, cikgu.",
-            "Jumpa lagi.",
-            "Terima kasih."
+            "Ali baik.",
+            "Ali baik?",
+            "baik Ali.",
+            "Ali baik!"
+          ],
+          0
+        ]
+      ]
+    },
+    {
+      "id": "bm6",
+      "title": "Unit 6 — Taman Permainan",
+      "learn": "Membaca dan menggunakan kosa kata tentang permainan serta keselamatan.",
+      "activity": "Senaraikan tiga permainan yang boleh dimainkan dengan selamat.",
+      "points": [
+        "Kosa kata permainan.",
+        "Arahan mudah.",
+        "Keselamatan ketika bermain."
+      ],
+      "quiz": [
+        [
+          "Tempat untuk bermain buaian ialah…",
+          [
+            "taman permainan",
+            "dapur",
+            "bilik tidur",
+            "perpustakaan"
+          ],
+          0
+        ],
+        [
+          "Sebelum menggunakan gelongsor kita perlu…",
+          [
+            "menolak rakan",
+            "beratur",
+            "berlari melawan arah",
+            "bergaduh"
+          ],
+          1
+        ]
+      ]
+    },
+    {
+      "id": "bm7",
+      "title": "Unit 7 — Sihat dan Gembira",
+      "learn": "Mengenal amalan hidup sihat dan ayat berkaitan kesihatan.",
+      "activity": "Bina jadual kecil rutin sihat harian.",
+      "points": [
+        "Makanan sihat.",
+        "Senaman dan rehat.",
+        "Kebersihan diri."
+      ],
+      "quiz": [
+        [
+          "Amalan yang baik ialah…",
+          [
+            "tidur lewat setiap hari",
+            "bersenam",
+            "tidak minum air",
+            "tidak mandi"
+          ],
+          1
+        ],
+        [
+          "Kita perlu mencuci tangan sebelum…",
+          [
+            "makan",
+            "tidur sahaja",
+            "bermain sahaja",
+            "menonton TV"
+          ],
+          0
+        ]
+      ]
+    },
+    {
+      "id": "bm8",
+      "title": "Unit 8 — Sedap dan Sihat",
+      "learn": "Mengenal makanan dan minuman serta membuat pilihan yang baik.",
+      "activity": "Kelaskan makanan kepada pilihan lebih sihat dan kurang sihat.",
+      "points": [
+        "Nama makanan.",
+        "Ayat suka/tidak suka.",
+        "Pilihan makanan seimbang."
+      ],
+      "quiz": [
+        [
+          "Yang manakah minuman?",
+          [
+            "susu",
+            "nasi",
+            "epal",
+            "roti"
+          ],
+          0
+        ],
+        [
+          "Ayat yang betul ialah…",
+          [
+            "Saya suka buah.",
+            "Suka saya buah.",
+            "Buah saya suka?",
+            "saya Buah suka."
+          ],
+          0
+        ]
+      ]
+    },
+    {
+      "id": "bm9",
+      "title": "Unit 9 — Kebersihan dan Kesihatan",
+      "learn": "Menggunakan kosa kata kebersihan dan menerangkan rutin penjagaan diri.",
+      "activity": "Susun langkah mencuci tangan dengan betul.",
+      "points": [
+        "Kata kerja harian.",
+        "Kebersihan diri.",
+        "Arahan mudah."
+      ],
+      "quiz": [
+        [
+          "Kita memberus gigi menggunakan…",
+          [
+            "berus gigi",
+            "sudu",
+            "pensel",
+            "pembaris"
+          ],
+          0
+        ],
+        [
+          "Selepas bermain, kita patut…",
+          [
+            "mencuci tangan",
+            "membuang kasut ke jalan",
+            "menjerit",
+            "tidak minum air"
+          ],
+          0
+        ]
+      ]
+    },
+    {
+      "id": "bm10",
+      "title": "Unit 10 — Berhati-hati Selalu",
+      "learn": "Mengenal peraturan keselamatan di rumah, sekolah dan jalan raya.",
+      "activity": "Kenal pasti tiga perkara yang perlu dielakkan ketika berada di jalan.",
+      "points": [
+        "Arahan keselamatan.",
+        "Kata kerja larangan.",
+        "Simbol dan tanda mudah."
+      ],
+      "quiz": [
+        [
+          "Apabila melintas jalan kita perlu…",
+          [
+            "berlari tanpa melihat",
+            "melihat kiri dan kanan",
+            "bermain di jalan",
+            "menutup mata"
+          ],
+          1
+        ],
+        [
+          "Benda tajam perlu digunakan dengan…",
+          [
+            "cuai",
+            "berhati-hati",
+            "berlari",
+            "bergurau"
+          ],
+          1
+        ]
+      ]
+    },
+    {
+      "id": "bm11",
+      "title": "Unit 11 — Selamat Sentiasa",
+      "learn": "Membina ayat tentang tindakan selamat dan meminta bantuan orang dewasa.",
+      "activity": "Main peranan meminta bantuan apabila berlaku kecemasan.",
+      "points": [
+        "Meminta pertolongan.",
+        "Ayat arahan.",
+        "Orang dewasa yang boleh membantu."
+      ],
+      "quiz": [
+        [
+          "Jika sesat, kita boleh meminta bantuan daripada…",
+          [
+            "orang dewasa yang dipercayai",
+            "orang tidak dikenali secara rawak",
+            "jalan kosong",
+            "pokok"
+          ],
+          0
+        ],
+        [
+          "Pilih ayat yang sopan.",
+          [
+            "Tolong bantu saya.",
+            "Bantu saya sekarang!",
+            "Awak mesti bantu!",
+            "Diam dan bantu!"
+          ],
+          0
+        ]
+      ]
+    },
+    {
+      "id": "bm12",
+      "title": "Unit 12 — Jadikan Teladan",
+      "learn": "Mengenal nilai murni melalui cerita dan peristiwa harian.",
+      "activity": "Ceritakan satu perbuatan baik yang boleh dicontohi.",
+      "points": [
+        "Nilai murni.",
+        "Urutan cerita.",
+        "Ayat mudah untuk menyatakan pendapat."
+      ],
+      "quiz": [
+        [
+          "Orang yang suka membantu bersikap…",
+          [
+            "baik hati",
+            "malas",
+            "kasar",
+            "cuai"
+          ],
+          0
+        ],
+        [
+          "Pilih nilai yang baik.",
+          [
+            "jujur",
+            "menipu",
+            "merosakkan",
+            "mengganggu"
           ],
           0
         ]

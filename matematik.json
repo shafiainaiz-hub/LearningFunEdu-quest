@@ -1,80 +1,90 @@
 {
   "name": "Matematik",
   "icon": "🔢",
-  "desc": "Nombor, operasi, bentuk, ukuran dan penyelesaian masalah.",
+  "desc": "Nombor, operasi, pecahan, wang, masa, ukuran, bentuk dan data.",
   "color": "Hijau",
   "units": [
     {
       "id": "m1",
-      "title": "Unit 1 — Nombor",
-      "learn": "Mengenal, membaca dan membandingkan nombor dalam lingkungan yang sesuai.",
-      "activity": "Kira objek dan susun nombor mengikut tertib.",
+      "title": "Unit 1 — Nombor hingga 100",
+      "learn": "Mengenal, membilang, membaca dan membandingkan nombor hingga 100.",
+      "activity": "Kira objek dan susun lima nombor daripada kecil kepada besar.",
+      "points": [
+        "Membilang.",
+        "Nilai nombor.",
+        "Lebih besar / lebih kecil / sama."
+      ],
       "quiz": [
         [
-          "Nombor selepas 7 ialah…",
+          "Nombor selepas 29 ialah…",
           [
-            "6",
-            "8",
-            "9",
-            "10"
+            "28",
+            "30",
+            "31",
+            "39"
           ],
           1
         ],
         [
           "Yang manakah lebih besar?",
           [
-            "3",
-            "5",
-            "2",
-            "1"
+            "14",
+            "41",
+            "24",
+            "4"
           ],
           1
         ],
         [
-          "Berapa objek? ⭐⭐⭐⭐",
+          "Nombor 56 mempunyai digit puluh sebanyak…",
           [
-            "3",
-            "4",
             "5",
-            "6"
+            "6",
+            "50",
+            "60"
           ],
-          1
+          0
         ]
       ]
     },
     {
       "id": "m2",
       "title": "Unit 2 — Tambah dan Tolak",
-      "learn": "Tambah dan tolak menggunakan objek serta ayat matematik mudah.",
-      "activity": "Gunakan gambar untuk mencari jumlah.",
+      "learn": "Menggunakan tambah dan tolak dalam situasi mudah.",
+      "activity": "Gunakan objek kecil untuk menyelesaikan lima operasi.",
+      "points": [
+        "Tambah.",
+        "Tolak.",
+        "Ayat matematik mudah."
+      ],
       "quiz": [
         [
-          "2 + 3 = ?",
+          "8 + 4 = ?",
           [
-            "4",
-            "5",
-            "6",
-            "7"
-          ],
-          1
-        ],
-        [
-          "7 − 2 = ?",
-          [
-            "3",
-            "4",
-            "5",
-            "6"
+            "10",
+            "11",
+            "12",
+            "13"
           ],
           2
         ],
         [
-          "1 + 4 = ?",
+          "15 − 5 = ?",
           [
-            "4",
-            "5",
-            "6",
-            "7"
+            "8",
+            "9",
+            "10",
+            "11"
+          ],
+          2
+        ],
+        [
+          "6 + 7 = ?",
+          [
+            "12",
+            "13",
+            "14",
+            "15"
           ],
           1
         ]
@@ -82,27 +92,197 @@
     },
     {
       "id": "m3",
-      "title": "Unit 3 — Bentuk",
-      "learn": "Mengenal bentuk 2D dan 3D melalui objek harian.",
-      "activity": "Cari bentuk di sekeliling kelas.",
+      "title": "Unit 3 — Pecahan",
+      "learn": "Mengenal bahagian sama besar seperti separuh dan suku.",
+      "activity": "Lipat kertas kepada dua bahagian sama besar dan warnakan satu bahagian.",
+      "points": [
+        "Separuh.",
+        "Suku.",
+        "Bahagian yang sama besar."
+      ],
       "quiz": [
         [
-          "Bentuk roda biasanya…",
+          "Satu daripada dua bahagian sama besar ialah…",
           [
-            "segi empat sama",
-            "bulatan",
-            "segi tiga",
-            "kubus"
+            "separuh",
+            "tiga suku",
+            "satu pertiga",
+            "satu perempat"
+          ],
+          0
+        ],
+        [
+          "Satu daripada empat bahagian sama besar ialah…",
+          [
+            "separuh",
+            "satu suku",
+            "dua suku",
+            "satu"
           ],
           1
+        ]
+      ]
+    },
+    {
+      "id": "m4",
+      "title": "Unit 4 — Wang",
+      "learn": "Mengenal nilai wang dan membuat jumlah mudah.",
+      "activity": "Main kedai-kedai menggunakan duit mainan.",
+      "points": [
+        "Syiling dan wang kertas.",
+        "Nilai wang.",
+        "Jumlah mudah."
+      ],
+      "quiz": [
+        [
+          "Syiling yang manakah bernilai 50 sen?",
+          [
+            "RM1",
+            "50 sen",
+            "20 sen",
+            "10 sen"
+          ],
+          1
+        ],
+        [
+          "RM1 + RM1 = ?",
+          [
+            "RM1",
+            "RM2",
+            "RM3",
+            "RM10"
+          ],
+          1
+        ]
+      ]
+    },
+    {
+      "id": "m5",
+      "title": "Unit 5 — Masa dan Waktu",
+      "learn": "Mengenal hari, waktu dan membaca masa mudah.",
+      "activity": "Susun aktiviti harian mengikut waktu.",
+      "points": [
+        "Hari dan waktu.",
+        "Pagi / petang / malam.",
+        "Jam mudah."
+      ],
+      "quiz": [
+        [
+          "Selepas Isnin ialah…",
+          [
+            "Ahad",
+            "Selasa",
+            "Rabu",
+            "Jumaat"
+          ],
+          1
+        ],
+        [
+          "Sarapan biasanya dilakukan pada…",
+          [
+            "pagi",
+            "tengah malam",
+            "petang lewat",
+            "malam"
+          ],
+          0
+        ]
+      ]
+    },
+    {
+      "id": "m6",
+      "title": "Unit 6 — Panjang, Jisim dan Isi Padu Cecair",
+      "learn": "Membandingkan ukuran menggunakan bahasa lebih panjang, lebih berat dan lebih banyak.",
+      "activity": "Bandingkan dua objek dan dua bekas di rumah.",
+      "points": [
+        "Panjang / pendek.",
+        "Berat / ringan.",
+        "Banyak / sedikit."
+      ],
+      "quiz": [
+        [
+          "Pensel biasanya lebih ___ daripada pembaris 30 cm.",
+          [
+            "panjang",
+            "pendek",
+            "berat",
+            "besar"
+          ],
+          1
+        ],
+        [
+          "Antara batu dan kapas, yang biasanya lebih berat ialah…",
+          [
+            "batu",
+            "kapas",
+            "kedua-duanya sama",
+            "air"
+          ],
+          0
+        ]
+      ]
+    },
+    {
+      "id": "m7",
+      "title": "Unit 7 — Bentuk",
+      "learn": "Mengenal bentuk 2D dan bongkah 3D melalui objek harian.",
+      "activity": "Cari objek berbentuk bulatan, kubus dan kuboid.",
+      "points": [
+        "Segi tiga, segi empat sama, segi empat tepat, bulatan.",
+        "Kubus dan kuboid.",
+        "Objek harian."
+      ],
+      "quiz": [
+        [
+          "Bentuk muka jam biasanya…",
+          [
+            "bulatan",
+            "segi tiga",
+            "kubus",
+            "piramid"
+          ],
+          0
         ],
         [
           "Dadu berbentuk…",
           [
             "kubus",
-            "bulatan",
+            "sfera",
             "kon",
             "silinder"
+          ],
+          0
+        ]
+      ]
+    },
+    {
+      "id": "m8",
+      "title": "Unit 8 — Data",
+      "learn": "Mengumpul, mengelas dan membaca data mudah.",
+      "activity": "Kumpulkan warna kegemaran rakan dan bina jadual kecil.",
+      "points": [
+        "Kumpul data.",
+        "Jadual mudah.",
+        "Bandingkan bilangan."
+      ],
+      "quiz": [
+        [
+          "Jika 5 murid suka merah dan 3 suka biru, yang lebih banyak ialah…",
+          [
+            "merah",
+            "biru",
+            "sama",
+            "tidak tahu"
+          ],
+          0
+        ],
+        [
+          "Data membantu kita…",
+          [
+            "membuat perbandingan",
+            "melupakan nombor",
+            "berlari",
+            "melukis sahaja"
           ],
           0
         ]

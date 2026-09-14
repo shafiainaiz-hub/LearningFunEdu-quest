@@ -1,14 +1,19 @@
 {
   "name": "Sains",
   "icon": "🔬",
-  "desc": "Meneroka kemahiran saintifik, benda hidup dan dunia sekeliling.",
+  "desc": "Meneroka kemahiran saintifik, manusia, haiwan, tumbuhan dan dunia sekeliling.",
   "color": "Oren",
   "units": [
     {
       "id": "s1",
       "title": "Unit 1 — Kemahiran Saintifik",
-      "learn": "Memerhati, mengelas, mengukur dan membuat komunikasi mudah.",
-      "activity": "Perhatikan objek dan nyatakan cirinya.",
+      "learn": "Memerhati, mengelas, mengukur dan berkomunikasi berdasarkan pemerhatian.",
+      "activity": "Perhatikan tiga objek dan catat satu ciri bagi setiap objek.",
+      "points": [
+        "Pemerhatian.",
+        "Pengelasan.",
+        "Komunikasi."
+      ],
       "quiz": [
         [
           "Deria untuk melihat ialah…",
@@ -25,8 +30,8 @@
           [
             "mengelas",
             "menulis",
-            "melukis",
-            "berlari"
+            "berlari",
+            "melukis"
           ],
           0
         ]
@@ -34,9 +39,47 @@
     },
     {
       "id": "s2",
-      "title": "Unit 2 — Benda Hidup",
-      "learn": "Mengenal ciri asas benda hidup dan bukan hidup.",
-      "activity": "Kelaskan gambar kepada hidup dan bukan hidup.",
+      "title": "Unit 2 — Peraturan Bilik Sains",
+      "learn": "Mengenal peraturan keselamatan ketika menjalankan aktiviti sains.",
+      "activity": "Pilih lima peraturan yang mesti dipatuhi di bilik sains.",
+      "points": [
+        "Beratur.",
+        "Ikut arahan guru.",
+        "Jangan makan atau bermain."
+      ],
+      "quiz": [
+        [
+          "Sebelum menjalankan aktiviti, kita perlu…",
+          [
+            "ikut arahan guru",
+            "berlari",
+            "bergurau",
+            "makan"
+          ],
+          0
+        ],
+        [
+          "Di bilik sains kita tidak boleh…",
+          [
+            "beratur",
+            "mendengar arahan",
+            "berlari-lari",
+            "membersihkan meja"
+          ],
+          2
+        ]
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Unit 3 — Benda Hidup dan Benda Bukan Hidup",
+      "learn": "Membezakan ciri asas benda hidup dan bukan hidup.",
+      "activity": "Kelaskan gambar atau objek kepada dua kumpulan.",
+      "points": [
+        "Benda hidup membesar dan bergerak.",
+        "Benda hidup memerlukan air/makanan.",
+        "Bukan hidup tidak menjalankan proses hidup."
+      ],
       "quiz": [
         [
           "Yang manakah benda hidup?",
@@ -49,7 +92,7 @@
           2
         ],
         [
-          "Benda hidup memerlukan…",
+          "Tumbuhan memerlukan…",
           [
             "air",
             "plastik",
@@ -61,10 +104,48 @@
       ]
     },
     {
-      "id": "s3",
-      "title": "Unit 3 — Haiwan",
-      "learn": "Mengenal haiwan, bahagian badan dan cara bergerak.",
-      "activity": "Padankan haiwan dengan cara pergerakannya.",
+      "id": "s4",
+      "title": "Unit 4 — Manusia",
+      "learn": "Mengenal bahagian tubuh, deria dan keperluan asas manusia.",
+      "activity": "Label bahagian tubuh dan padankan dengan fungsi deria.",
+      "points": [
+        "Bahagian tubuh.",
+        "Lima deria.",
+        "Keperluan asas."
+      ],
+      "quiz": [
+        [
+          "Kita mendengar menggunakan…",
+          [
+            "mata",
+            "telinga",
+            "hidung",
+            "kulit"
+          ],
+          1
+        ],
+        [
+          "Deria bau menggunakan…",
+          [
+            "hidung",
+            "lidah",
+            "mata",
+            "telinga"
+          ],
+          0
+        ]
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Unit 5 — Haiwan",
+      "learn": "Mengenal bahagian tubuh haiwan, cara bergerak dan perlindungan.",
+      "activity": "Padankan haiwan dengan pergerakan seperti terbang, berenang dan melompat.",
+      "points": [
+        "Bahagian tubuh haiwan.",
+        "Pergerakan.",
+        "Perlindungan diri."
+      ],
       "quiz": [
         [
           "Haiwan yang terbang ialah…",
@@ -85,6 +166,171 @@
             "tanduk"
           ],
           1
+        ]
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "Unit 6 — Tumbuhan",
+      "learn": "Mengenal bahagian tumbuhan dan kepentingannya.",
+      "activity": "Cari satu tumbuhan dan lukis daun, bunga, batang dan akar.",
+      "points": [
+        "Daun, bunga, batang dan akar.",
+        "Fungsi asas bahagian tumbuhan.",
+        "Perbezaan tumbuhan."
+      ],
+      "quiz": [
+        [
+          "Bahagian tumbuhan yang menyerap air dari tanah ialah…",
+          [
+            "akar",
+            "bunga",
+            "daun",
+            "buah"
+          ],
+          0
+        ],
+        [
+          "Daun membantu tumbuhan…",
+          [
+            "membuat makanan",
+            "berlari",
+            "mendengar",
+            "berenang"
+          ],
+          0
+        ]
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "Unit 7 — Magnet",
+      "learn": "Mengenal magnet dan objek yang boleh ditarik oleh magnet.",
+      "activity": "Uji beberapa objek selamat seperti klip kertas, pemadam dan pembaris plastik.",
+      "points": [
+        "Magnet menarik sesetengah bahan.",
+        "Tarikan magnet.",
+        "Pemerhatian."
+      ],
+      "quiz": [
+        [
+          "Magnet boleh menarik…",
+          [
+            "klip besi",
+            "kertas",
+            "getah",
+            "kayu"
+          ],
+          0
+        ],
+        [
+          "Dua kutub magnet boleh…",
+          [
+            "menarik atau menolak",
+            "membesar",
+            "bernafas",
+            "menghasilkan makanan"
+          ],
+          0
+        ]
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "Unit 8 — Penyerapan",
+      "learn": "Membandingkan bahan yang menyerap air dan bahan yang kurang menyerap.",
+      "activity": "Uji tisu, kain dan plastik dengan sedikit air bersama orang dewasa.",
+      "points": [
+        "Menyerap air.",
+        "Tidak menyerap air.",
+        "Bandingkan pemerhatian."
+      ],
+      "quiz": [
+        [
+          "Bahan yang mudah menyerap air ialah…",
+          [
+            "tisu",
+            "plastik",
+            "kaca",
+            "logam"
+          ],
+          0
+        ],
+        [
+          "Plastik biasanya…",
+          [
+            "menyerap banyak air",
+            "tidak menyerap air",
+            "menjadi tumbuhan",
+            "bernafas"
+          ],
+          1
+        ]
+      ]
+    },
+    {
+      "id": "s9",
+      "title": "Unit 9 — Bumi",
+      "learn": "Mengenal permukaan Bumi dan keadaan sekeliling seperti tanah, air dan udara.",
+      "activity": "Buat senarai contoh benda yang terdapat di darat dan di air.",
+      "points": [
+        "Darat dan air.",
+        "Udara di sekeliling kita.",
+        "Menjaga alam."
+      ],
+      "quiz": [
+        [
+          "Kita hidup di planet…",
+          [
+            "Bumi",
+            "Marikh",
+            "Matahari",
+            "Bulan"
+          ],
+          0
+        ],
+        [
+          "Sungai mengandungi…",
+          [
+            "air",
+            "pasir sahaja",
+            "api",
+            "awan"
+          ],
+          0
+        ]
+      ]
+    },
+    {
+      "id": "s10",
+      "title": "Unit 10 — Asas Binaan",
+      "learn": "Mengenal bentuk asas dan memilih bentuk yang sesuai untuk sesuatu binaan.",
+      "activity": "Bina menara kecil menggunakan kotak atau bahan selamat yang ada.",
+      "points": [
+        "Bentuk asas.",
+        "Kestabilan binaan.",
+        "Kegunaan bentuk."
+      ],
+      "quiz": [
+        [
+          "Dadu mempunyai bentuk…",
+          [
+            "kubus",
+            "bulatan",
+            "kon",
+            "sfera"
+          ],
+          0
+        ],
+        [
+          "Bentuk yang stabil boleh membantu binaan menjadi…",
+          [
+            "kukuh",
+            "hilang",
+            "berair",
+            "bergerak sendiri"
+          ],
+          0
         ]
       ]
     }
