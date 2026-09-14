@@ -1,95 +1,111 @@
 {
-  "subject": "Bahasa Melayu Tahun 1",
+  "name": "Bahasa Melayu",
+  "icon": "📖",
+  "desc": "Membaca, menulis, bertutur dan memahami bahasa.",
+  "color": "Merah jambu",
   "units": [
     {
+      "id": "bm1",
       "title": "Unit 1 — Diri Saya",
-      "lessons": [
-        {
-          "id": "bm-u1-l1",
-          "title": "Kenali Diri",
-          "description": "Kosa kata dan ayat mudah tentang diri.",
-          "questions": [
-            {
-              "question": "Pilih ayat yang betul.",
-              "options": [
-                "Saya Aina.",
-                "Saya Aina?",
-                "Saya Aina!",
-                "Saya Aina,."
-              ],
-              "answer": 0
-            },
-            {
-              "question": "Perkataan manakah ialah nama orang?",
-              "options": [
-                "Aina",
-                "buku",
-                "lari",
-                "merah"
-              ],
-              "answer": 0
-            }
-          ]
-        },
-        {
-          "id": "bm-u1-l2",
-          "title": "Huruf dan Perkataan",
-          "description": "Membina perkataan mudah.",
-          "questions": [
-            {
-              "question": "Huruf pertama bagi 'buku' ialah...",
-              "options": [
-                "a",
-                "b",
-                "d",
-                "k"
-              ],
-              "answer": 1
-            },
-            {
-              "question": "Yang manakah perkataan?",
-              "options": [
-                "ba",
-                "buku",
-                "bk",
-                "ub"
-              ],
-              "answer": 1
-            }
-          ]
-        }
+      "learn": "Mengenal diri, nama, anggota badan dan ayat mudah.",
+      "activity": "Bina ayat mudah tentang diri sendiri.",
+      "quiz": [
+        [
+          "Apakah huruf pertama bagi perkataan “ayam”?",
+          [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          0
+        ],
+        [
+          "Pilih ayat yang betul.",
+          [
+            "Saya nama Ali.",
+            "Nama saya Ali.",
+            "Ali saya nama.",
+            "Nama Ali saya."
+          ],
+          1
+        ],
+        [
+          "Anggota badan untuk melihat ialah…",
+          [
+            "telinga",
+            "hidung",
+            "mata",
+            "tangan"
+          ],
+          2
+        ]
       ]
     },
     {
+      "id": "bm2",
       "title": "Unit 2 — Keluarga",
-      "lessons": [
-        {
-          "id": "bm-u2-l1",
-          "title": "Keluarga Saya",
-          "description": "Kosa kata ahli keluarga.",
-          "questions": [
-            {
-              "question": "Ibu kepada ibu kita ialah...",
-              "options": [
-                "Kakak",
-                "Nenek",
-                "Adik",
-                "Abang"
-              ],
-              "answer": 1
-            },
-            {
-              "question": "Ini ___ saya.",
-              "options": [
-                "ibu",
-                "berlari",
-                "cantik",
-                "makan"
-              ],
-              "answer": 0
-            }
-          ]
-        }
+      "learn": "Mengenal ahli keluarga dan menggunakan kata nama yang sesuai.",
+      "activity": "Padankan ahli keluarga dengan peranannya.",
+      "quiz": [
+        [
+          "Ibu kepada ibu kita ialah…",
+          [
+            "kakak",
+            "nenek",
+            "adik",
+            "mak cik"
+          ],
+          1
+        ],
+        [
+          "Ayat yang sesuai ialah…",
+          [
+            "Ini ayah saya.",
+            "Ini ayah saya?",
+            "ini AYAH.",
+            "Ayah ini?"
+          ],
+          0
+        ],
+        [
+          "Siapakah adik kepada ibu?",
+          [
+            "pak cik",
+            "datuk",
+            "nenek",
+            "abang"
+          ],
+          0
+        ]
+      ]
+    },
+    {
+      "id": "bm3",
+      "title": "Unit 3 — Sekolah",
+      "learn": "Kosa kata berkaitan sekolah dan komunikasi sopan.",
+      "activity": "Kenal pasti objek di dalam kelas.",
+      "quiz": [
+        [
+          "Tempat murid belajar ialah…",
+          [
+            "dapur",
+            "kelas",
+            "taman",
+            "garaj"
+          ],
+          1
+        ],
+        [
+          "Ucapan sesuai apabila bertemu guru pada pagi hari ialah…",
+          [
+            "Selamat pagi, cikgu.",
+            "Selamat malam, cikgu.",
+            "Jumpa lagi.",
+            "Terima kasih."
+          ],
+          0
+        ]
       ]
     }
   ]

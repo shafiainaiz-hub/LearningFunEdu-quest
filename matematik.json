@@ -1,100 +1,111 @@
 {
-  "subject": "Matematik Tahun 1",
+  "name": "Matematik",
+  "icon": "🔢",
+  "desc": "Nombor, operasi, bentuk, ukuran dan penyelesaian masalah.",
+  "color": "Hijau",
   "units": [
     {
+      "id": "m1",
       "title": "Unit 1 — Nombor",
-      "lessons": [
-        {
-          "id": "math-u1-l1",
-          "title": "Kenali Nombor",
-          "description": "Mengenal dan membilang nombor.",
-          "questions": [
-            {
-              "question": "3 + 2 = ?",
-              "options": [
-                "4",
-                "5",
-                "6",
-                "7"
-              ],
-              "answer": 1
-            },
-            {
-              "question": "Nombor selepas 6 ialah...",
-              "options": [
-                "5",
-                "7",
-                "8",
-                "9"
-              ],
-              "answer": 1
-            }
-          ]
-        }
+      "learn": "Mengenal, membaca dan membandingkan nombor dalam lingkungan yang sesuai.",
+      "activity": "Kira objek dan susun nombor mengikut tertib.",
+      "quiz": [
+        [
+          "Nombor selepas 7 ialah…",
+          [
+            "6",
+            "8",
+            "9",
+            "10"
+          ],
+          1
+        ],
+        [
+          "Yang manakah lebih besar?",
+          [
+            "3",
+            "5",
+            "2",
+            "1"
+          ],
+          1
+        ],
+        [
+          "Berapa objek? ⭐⭐⭐⭐",
+          [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          1
+        ]
       ]
     },
     {
+      "id": "m2",
       "title": "Unit 2 — Tambah dan Tolak",
-      "lessons": [
-        {
-          "id": "math-u2-l1",
-          "title": "Tambah Mudah",
-          "description": "Menambah nombor kecil.",
-          "questions": [
-            {
-              "question": "4 + 3 = ?",
-              "options": [
-                "6",
-                "7",
-                "8",
-                "9"
-              ],
-              "answer": 1
-            },
-            {
-              "question": "5 + 1 = ?",
-              "options": [
-                "5",
-                "6",
-                "7",
-                "8"
-              ],
-              "answer": 1
-            }
-          ]
-        }
+      "learn": "Tambah dan tolak menggunakan objek serta ayat matematik mudah.",
+      "activity": "Gunakan gambar untuk mencari jumlah.",
+      "quiz": [
+        [
+          "2 + 3 = ?",
+          [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          1
+        ],
+        [
+          "7 − 2 = ?",
+          [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          2
+        ],
+        [
+          "1 + 4 = ?",
+          [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          1
+        ]
       ]
     },
     {
+      "id": "m3",
       "title": "Unit 3 — Bentuk",
-      "lessons": [
-        {
-          "id": "math-u3-l1",
-          "title": "Bentuk 2D",
-          "description": "Mengenal bentuk asas.",
-          "questions": [
-            {
-              "question": "Bentuk yang mempunyai 3 sisi ialah...",
-              "options": [
-                "Bulatan",
-                "Segi tiga",
-                "Segi empat sama",
-                "Segi empat tepat"
-              ],
-              "answer": 1
-            },
-            {
-              "question": "Bentuk tanpa sisi ialah...",
-              "options": [
-                "Bulatan",
-                "Segi tiga",
-                "Segi empat",
-                "Bujur"
-              ],
-              "answer": 0
-            }
-          ]
-        }
+      "learn": "Mengenal bentuk 2D dan 3D melalui objek harian.",
+      "activity": "Cari bentuk di sekeliling kelas.",
+      "quiz": [
+        [
+          "Bentuk roda biasanya…",
+          [
+            "segi empat sama",
+            "bulatan",
+            "segi tiga",
+            "kubus"
+          ],
+          1
+        ],
+        [
+          "Dadu berbentuk…",
+          [
+            "kubus",
+            "bulatan",
+            "kon",
+            "silinder"
+          ],
+          0
+        ]
       ]
     }
   ]

@@ -1,11 +1,14 @@
-# Jom Belajar Tahun 1
+# Belajar Ceria Tahun 1 — Versi 2
 
-Portal pembelajaran statik untuk Bahasa Melayu, English (Super Minds), Matematik dan Sains.
+Laman web statik untuk GitHub Pages.
 
-## GitHub Pages
-1. Upload semua fail ke repository.
-2. Pastikan `index.html` berada di root.
-3. GitHub → Settings → Pages → Deploy from a branch → `main` → `/(root)` → Save.
+## Cara guna
+1. Muat naik semua fail ke repository GitHub.
+2. Pastikan `index.html` berada di root repository.
+3. GitHub → Settings → Pages → Deploy from branch → pilih `main` / root.
+4. Buka URL GitHub Pages anda.
 
-## Penting
-Data contoh adalah kandungan original untuk demo. Semak dan sesuaikan senarai unit dengan edisi buku teks KPM yang digunakan sekolah sebelum penerbitan rasmi. Fail dalam `data/` boleh diedit untuk menambah lesson dan soalan.
+## Nota kandungan
+Struktur English menggunakan unit Super Minds yang telah dikenal pasti. Kandungan nota dan latihan dihasilkan secara original dan bukan salinan buku teks. Struktur BM, Matematik dan Sains dalam prototaip ini ialah contoh pembangunan dan perlu disemak semula dengan edisi buku teks/KPM yang digunakan sekolah sebelum dianggap sebagai pemetaan rasmi.
+
+Versi ini menggunakan LocalStorage; tiada pangkalan data atau akaun murid diperlukan.

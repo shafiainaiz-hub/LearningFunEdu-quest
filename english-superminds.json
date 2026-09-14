@@ -1,164 +1,167 @@
 {
-  "subject": "English — Super Minds Year 1",
+  "name": "English Year 1",
+  "icon": "🇬🇧",
+  "desc": "Learn English with a Super Minds-inspired unit structure.",
+  "color": "Biru",
   "units": [
     {
+      "id": "en0",
       "title": "Unit 0 — Friends",
-      "lessons": [
-        {
-          "id": "eng-u0-l1",
-          "title": "Hello, Friends!",
-          "description": "Greetings and introductions.",
-          "questions": [
-            {
-              "question": "What's your name?",
-              "options": [
-                "I'm Ali.",
-                "I'm seven.",
-                "It's a book.",
-                "Good night."
-              ],
-              "answer": 0
-            },
-            {
-              "question": "Which word is a greeting?",
-              "options": [
-                "Hello",
-                "Pencil",
-                "Run",
-                "Blue"
-              ],
-              "answer": 0
-            }
-          ]
-        }
+      "learn": "Greetings, names, classroom language and simple introductions.",
+      "activity": "Say hello and introduce yourself.",
+      "quiz": [
+        [
+          "Choose the correct greeting.",
+          [
+            "Goodbye!",
+            "Hello!",
+            "Sorry!",
+            "Thanks!"
+          ],
+          1
+        ],
+        [
+          "Complete: My ___ is Sam.",
+          [
+            "name",
+            "book",
+            "red",
+            "school"
+          ],
+          0
+        ],
+        [
+          "How are you?",
+          [
+            "I’m fine, thank you.",
+            "It’s a pen.",
+            "I’m seven.",
+            "Good night."
+          ],
+          0
+        ]
       ]
     },
     {
+      "id": "en1",
       "title": "Unit 1 — At School",
-      "lessons": [
-        {
-          "id": "eng-u1-l1",
-          "title": "School Objects",
-          "description": "Common classroom vocabulary.",
-          "questions": [
-            {
-              "question": "Which is a school object?",
-              "options": [
-                "Pencil",
-                "Tiger",
-                "Cloud",
-                "Tree"
-              ],
-              "answer": 0
-            },
-            {
-              "question": "This is a ___.",
-              "options": [
-                "book",
-                "run",
-                "happy",
-                "quickly"
-              ],
-              "answer": 0
-            }
-          ]
-        }
+      "learn": "Classroom objects, colours and simple instructions.",
+      "activity": "Find and name objects around the classroom.",
+      "quiz": [
+        [
+          "What is this? 📘",
+          [
+            "A book.",
+            "A chair.",
+            "A bag.",
+            "A ruler."
+          ],
+          0
+        ],
+        [
+          "Choose the colour: 🍎",
+          [
+            "blue",
+            "green",
+            "red",
+            "black"
+          ],
+          2
+        ],
+        [
+          "A teacher says: “Sit ___.”",
+          [
+            "up",
+            "down",
+            "on",
+            "at"
+          ],
+          1
+        ]
       ]
     },
     {
-      "title": "Unit 2 — Let's Play",
-      "lessons": [
-        {
-          "id": "eng-u2-l1",
-          "title": "Let's Play!",
-          "description": "Play and action vocabulary.",
-          "questions": [
-            {
-              "question": "Choose the action word.",
-              "options": [
-                "Jump",
-                "Blue",
-                "Ball",
-                "Chair"
-              ],
-              "answer": 0
-            },
-            {
-              "question": "Let's ___!",
-              "options": [
-                "play",
-                "pencil",
-                "green",
-                "book"
-              ],
-              "answer": 0
-            }
-          ]
-        }
+      "id": "en2",
+      "title": "Unit 2 — Let’s Play",
+      "learn": "Toys, games and simple action words.",
+      "activity": "Name toys and say what you can do.",
+      "quiz": [
+        [
+          "Which is a toy?",
+          [
+            "ball",
+            "table",
+            "window",
+            "door"
+          ],
+          0
+        ],
+        [
+          "Complete: I can ___.",
+          [
+            "run",
+            "blue",
+            "book",
+            "seven"
+          ],
+          0
+        ]
       ]
     },
     {
+      "id": "en3",
       "title": "Unit 3 — Pet Show",
-      "lessons": [
-        {
-          "id": "eng-u3-l1",
-          "title": "Pets",
-          "description": "Familiar animals.",
-          "questions": [
-            {
-              "question": "Which can be a pet?",
-              "options": [
-                "Cat",
-                "Desk",
-                "Pencil",
-                "Cup"
-              ],
-              "answer": 0
-            },
-            {
-              "question": "It is a ___.",
-              "options": [
-                "dog",
-                "run",
-                "blue",
-                "jump"
-              ],
-              "answer": 0
-            }
-          ]
-        }
+      "learn": "Pets, animals and simple descriptions.",
+      "activity": "Describe an animal using a colour or size.",
+      "quiz": [
+        [
+          "Which is a pet?",
+          [
+            "tiger",
+            "cat",
+            "elephant",
+            "shark"
+          ],
+          1
+        ],
+        [
+          "A small dog is…",
+          [
+            "big",
+            "small",
+            "long",
+            "tall"
+          ],
+          1
+        ]
       ]
     },
     {
+      "id": "en4",
       "title": "Unit 4 — Lunchtime",
-      "lessons": [
-        {
-          "id": "eng-u4-l1",
-          "title": "Food",
-          "description": "Simple food vocabulary.",
-          "questions": [
-            {
-              "question": "Which is food?",
-              "options": [
-                "Rice",
-                "Ruler",
-                "Bag",
-                "Chair"
-              ],
-              "answer": 0
-            },
-            {
-              "question": "Choose the drink.",
-              "options": [
-                "Water",
-                "Book",
-                "Pencil",
-                "Desk"
-              ],
-              "answer": 0
-            }
-          ]
-        }
+      "learn": "Food, drinks and simple likes/dislikes.",
+      "activity": "Talk about food you like.",
+      "quiz": [
+        [
+          "Which is a drink?",
+          [
+            "rice",
+            "milk",
+            "bread",
+            "apple"
+          ],
+          1
+        ],
+        [
+          "Complete: I like ___.",
+          [
+            "apples",
+            "run",
+            "blue",
+            "school"
+          ],
+          0
+        ]
       ]
     }
   ]

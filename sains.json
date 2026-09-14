@@ -1,100 +1,91 @@
 {
-  "subject": "Sains Tahun 1",
+  "name": "Sains",
+  "icon": "🔬",
+  "desc": "Meneroka kemahiran saintifik, benda hidup dan dunia sekeliling.",
+  "color": "Oren",
   "units": [
     {
+      "id": "s1",
       "title": "Unit 1 — Kemahiran Saintifik",
-      "lessons": [
-        {
-          "id": "sci-u1-l1",
-          "title": "Mari Memerhati",
-          "description": "Menggunakan deria untuk membuat pemerhatian.",
-          "questions": [
-            {
-              "question": "Apakah deria untuk melihat?",
-              "options": [
-                "Mata",
-                "Telinga",
-                "Hidung",
-                "Lidah"
-              ],
-              "answer": 0
-            },
-            {
-              "question": "Deria pendengaran menggunakan...",
-              "options": [
-                "Mata",
-                "Telinga",
-                "Kulit",
-                "Hidung"
-              ],
-              "answer": 1
-            }
-          ]
-        }
+      "learn": "Memerhati, mengelas, mengukur dan membuat komunikasi mudah.",
+      "activity": "Perhatikan objek dan nyatakan cirinya.",
+      "quiz": [
+        [
+          "Deria untuk melihat ialah…",
+          [
+            "mata",
+            "telinga",
+            "kulit",
+            "lidah"
+          ],
+          0
+        ],
+        [
+          "Mengumpulkan objek mengikut ciri disebut…",
+          [
+            "mengelas",
+            "menulis",
+            "melukis",
+            "berlari"
+          ],
+          0
+        ]
       ]
     },
     {
+      "id": "s2",
       "title": "Unit 2 — Benda Hidup",
-      "lessons": [
-        {
-          "id": "sci-u2-l1",
-          "title": "Hidup atau Bukan Hidup?",
-          "description": "Membezakan benda hidup dan bukan hidup.",
-          "questions": [
-            {
-              "question": "Yang manakah benda hidup?",
-              "options": [
-                "Kucing",
-                "Kerusi",
-                "Bola",
-                "Pensel"
-              ],
-              "answer": 0
-            },
-            {
-              "question": "Yang manakah bukan benda hidup?",
-              "options": [
-                "Pokok",
-                "Burung",
-                "Meja",
-                "Ikan"
-              ],
-              "answer": 2
-            }
-          ]
-        }
+      "learn": "Mengenal ciri asas benda hidup dan bukan hidup.",
+      "activity": "Kelaskan gambar kepada hidup dan bukan hidup.",
+      "quiz": [
+        [
+          "Yang manakah benda hidup?",
+          [
+            "batu",
+            "kerusi",
+            "kucing",
+            "pensel"
+          ],
+          2
+        ],
+        [
+          "Benda hidup memerlukan…",
+          [
+            "air",
+            "plastik",
+            "mainan",
+            "batu"
+          ],
+          0
+        ]
       ]
     },
     {
+      "id": "s3",
       "title": "Unit 3 — Haiwan",
-      "lessons": [
-        {
-          "id": "sci-u3-l1",
-          "title": "Kenali Haiwan",
-          "description": "Mengenal haiwan di sekeliling kita.",
-          "questions": [
-            {
-              "question": "Haiwan yang mempunyai sayap ialah...",
-              "options": [
-                "Burung",
-                "Kucing",
-                "Ikan",
-                "Kambing"
-              ],
-              "answer": 0
-            },
-            {
-              "question": "Haiwan yang hidup di air ialah...",
-              "options": [
-                "Ikan",
-                "Ayam",
-                "Kucing",
-                "Arnab"
-              ],
-              "answer": 0
-            }
-          ]
-        }
+      "learn": "Mengenal haiwan, bahagian badan dan cara bergerak.",
+      "activity": "Padankan haiwan dengan cara pergerakannya.",
+      "quiz": [
+        [
+          "Haiwan yang terbang ialah…",
+          [
+            "ikan",
+            "burung",
+            "kucing",
+            "arnab"
+          ],
+          1
+        ],
+        [
+          "Ikan bergerak menggunakan…",
+          [
+            "sayap",
+            "sirip",
+            "kaki",
+            "tanduk"
+          ],
+          1
+        ]
       ]
     }
   ]
