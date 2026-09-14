@@ -18,3 +18,6 @@ Semua fail berada di root repository. Upload/replace semua fail di root.
 
 ## Nota
 Versi ini tidak memerlukan backend atau login. Data murid tidak dihantar ke server oleh aplikasi ini. Kandungan latihan ialah kandungan original untuk tujuan pembelajaran dan perlu disemak dengan bahan/DSKP sekolah jika digunakan sebagai bahan rasmi.
+
+
+V6 More Questions menambah sehingga 10 soalan bagi setiap unit (390 soalan keseluruhan).

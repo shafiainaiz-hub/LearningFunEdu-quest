@@ -44,6 +44,76 @@
             "Good night."
           ],
           0
+        ],
+        [
+          "What is your name?",
+          [
+            "My name is Ana.",
+            "I am a pencil.",
+            "It is blue.",
+            "Good night."
+          ],
+          0
+        ],
+        [
+          "Choose the polite greeting.",
+          [
+            "Good morning!",
+            "Give me!",
+            "Go away!",
+            "No!"
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "hello / goodbye",
+            "My name is…",
+            "How are you?",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "My name is…",
+            "hello / goodbye",
+            "How are you?",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "How are you?",
+            "hello / goodbye",
+            "My name is…",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Unit ini bertajuk “0 — Friends”. Apakah fokus pembelajaran yang paling sesuai?",
+          [
+            "hello / goodbye",
+            "Membina roket ke angkasa.",
+            "Belajar berenang di kolam.",
+            "Bermain tanpa belajar."
+          ],
+          0
+        ],
+        [
+          "Aktiviti yang dicadangkan untuk unit ini ialah…",
+          [
+            "Say hello, introduce yourself and ask a friend’s name.",
+            "Tidur sepanjang hari.",
+            "Tidak membuat sebarang aktiviti.",
+            "Melompat tanpa arahan."
+          ],
+          0
         ]
       ]
     },
@@ -87,6 +157,76 @@
             "at"
           ],
           1
+        ],
+        [
+          "Which is a classroom object?",
+          [
+            "pencil",
+            "banana",
+            "shoe",
+            "fish"
+          ],
+          0
+        ],
+        [
+          "What colour is the sun usually shown as?",
+          [
+            "yellow",
+            "purple",
+            "black",
+            "pink"
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "book, bag, pen, ruler",
+            "basic colours",
+            "sit down / stand up",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "basic colours",
+            "book, bag, pen, ruler",
+            "sit down / stand up",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "sit down / stand up",
+            "book, bag, pen, ruler",
+            "basic colours",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Unit ini bertajuk “1 — At School”. Apakah fokus pembelajaran yang paling sesuai?",
+          [
+            "book, bag, pen, ruler",
+            "Membina roket ke angkasa.",
+            "Belajar berenang di kolam.",
+            "Bermain tanpa belajar."
+          ],
+          0
+        ],
+        [
+          "Aktiviti yang dicadangkan untuk unit ini ialah…",
+          [
+            "Point to five classroom objects and say their names.",
+            "Tidur sepanjang hari.",
+            "Tidak membuat sebarang aktiviti.",
+            "Melompat tanpa arahan."
+          ],
+          0
         ]
       ]
     },
@@ -118,6 +258,86 @@
             "blue",
             "book",
             "seven"
+          ],
+          0
+        ],
+        [
+          "Which is a toy?",
+          [
+            "ball",
+            "plate",
+            "bed",
+            "door"
+          ],
+          0
+        ],
+        [
+          "Choose an action word.",
+          [
+            "jump",
+            "blue",
+            "pencil",
+            "school"
+          ],
+          0
+        ],
+        [
+          "Complete: I can ___.",
+          [
+            "run",
+            "red",
+            "book",
+            "cat"
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "ball, doll, kite",
+            "I can…",
+            "play / run / jump",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "I can…",
+            "ball, doll, kite",
+            "play / run / jump",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "play / run / jump",
+            "ball, doll, kite",
+            "I can…",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Unit ini bertajuk “2 — Let’s Play”. Apakah fokus pembelajaran yang paling sesuai?",
+          [
+            "ball, doll, kite",
+            "Membina roket ke angkasa.",
+            "Belajar berenang di kolam.",
+            "Bermain tanpa belajar."
+          ],
+          0
+        ],
+        [
+          "Aktiviti yang dicadangkan untuk unit ini ialah…",
+          [
+            "Name a toy and say one thing you can do.",
+            "Tidur sepanjang hari.",
+            "Tidak membuat sebarang aktiviti.",
+            "Melompat tanpa arahan."
           ],
           0
         ]
@@ -153,6 +373,86 @@
             "tall"
           ],
           1
+        ],
+        [
+          "Which animal can be a pet?",
+          [
+            "cat",
+            "table",
+            "pencil",
+            "chair"
+          ],
+          0
+        ],
+        [
+          "Choose the correct description: The dog is ___.",
+          [
+            "big",
+            "eat",
+            "run",
+            "book"
+          ],
+          0
+        ],
+        [
+          "What animal says “meow”?",
+          [
+            "cat",
+            "dog",
+            "fish",
+            "bird"
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "cat, dog, fish, bird",
+            "big / small",
+            "It is…",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "big / small",
+            "cat, dog, fish, bird",
+            "It is…",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "It is…",
+            "cat, dog, fish, bird",
+            "big / small",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Unit ini bertajuk “3 — Pet Show”. Apakah fokus pembelajaran yang paling sesuai?",
+          [
+            "cat, dog, fish, bird",
+            "Membina roket ke angkasa.",
+            "Belajar berenang di kolam.",
+            "Bermain tanpa belajar."
+          ],
+          0
+        ],
+        [
+          "Aktiviti yang dicadangkan untuk unit ini ialah…",
+          [
+            "Describe an animal with a colour or size.",
+            "Tidur sepanjang hari.",
+            "Tidak membuat sebarang aktiviti.",
+            "Melompat tanpa arahan."
+          ],
+          0
         ]
       ]
     },
@@ -184,6 +484,86 @@
             "run",
             "blue",
             "school"
+          ],
+          0
+        ],
+        [
+          "Which one is a drink?",
+          [
+            "milk",
+            "bread",
+            "rice",
+            "apple"
+          ],
+          0
+        ],
+        [
+          "Complete: I like ___.",
+          [
+            "apples",
+            "run",
+            "blue",
+            "school"
+          ],
+          0
+        ],
+        [
+          "Choose a food.",
+          [
+            "sandwich",
+            "water",
+            "juice",
+            "milk"
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "food and drinks",
+            "I like…",
+            "I don’t like…",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "I like…",
+            "food and drinks",
+            "I don’t like…",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "I don’t like…",
+            "food and drinks",
+            "I like…",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Unit ini bertajuk “4 — Lunchtime”. Apakah fokus pembelajaran yang paling sesuai?",
+          [
+            "food and drinks",
+            "Membina roket ke angkasa.",
+            "Belajar berenang di kolam.",
+            "Bermain tanpa belajar."
+          ],
+          0
+        ],
+        [
+          "Aktiviti yang dicadangkan untuk unit ini ialah…",
+          [
+            "Make a mini lunch menu and say what you like.",
+            "Tidur sepanjang hari.",
+            "Tidak membuat sebarang aktiviti.",
+            "Melompat tanpa arahan."
           ],
           0
         ]
@@ -219,6 +599,86 @@
             "book"
           ],
           0
+        ],
+        [
+          "Which day comes after Monday?",
+          [
+            "Tuesday",
+            "Friday",
+            "Sunday",
+            "Saturday"
+          ],
+          0
+        ],
+        [
+          "Which is a free-time activity?",
+          [
+            "playing",
+            "sleeping in class",
+            "taking a test",
+            "cleaning the board"
+          ],
+          0
+        ],
+        [
+          "Complete: On Saturday, I ___.",
+          [
+            "play",
+            "blue",
+            "pencil",
+            "teacher"
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "days of the week",
+            "play football / read / swim",
+            "Do you…?",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "play football / read / swim",
+            "days of the week",
+            "Do you…?",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "Do you…?",
+            "days of the week",
+            "play football / read / swim",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Unit ini bertajuk “5 — Free Time”. Apakah fokus pembelajaran yang paling sesuai?",
+          [
+            "days of the week",
+            "Membina roket ke angkasa.",
+            "Belajar berenang di kolam.",
+            "Bermain tanpa belajar."
+          ],
+          0
+        ],
+        [
+          "Aktiviti yang dicadangkan untuk unit ini ialah…",
+          [
+            "Make a simple weekly activity chart.",
+            "Tidur sepanjang hari.",
+            "Tidak membuat sebarang aktiviti.",
+            "Melompat tanpa arahan."
+          ],
+          0
         ]
       ]
     },
@@ -250,6 +710,86 @@
             "are",
             "am",
             "be"
+          ],
+          0
+        ],
+        [
+          "Which is a room in a house?",
+          [
+            "kitchen",
+            "school bus",
+            "garden shoe",
+            "pencil"
+          ],
+          0
+        ],
+        [
+          "Complete: There is a ___.",
+          [
+            "bed",
+            "run",
+            "blue",
+            "happy"
+          ],
+          0
+        ],
+        [
+          "Which room is used for cooking?",
+          [
+            "kitchen",
+            "bedroom",
+            "bathroom",
+            "classroom"
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "house, bedroom, bathroom",
+            "There is…",
+            "There are…",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "There is…",
+            "house, bedroom, bathroom",
+            "There are…",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "There are…",
+            "house, bedroom, bathroom",
+            "There is…",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Unit ini bertajuk “6 — The Old House”. Apakah fokus pembelajaran yang paling sesuai?",
+          [
+            "house, bedroom, bathroom",
+            "Membina roket ke angkasa.",
+            "Belajar berenang di kolam.",
+            "Bermain tanpa belajar."
+          ],
+          0
+        ],
+        [
+          "Aktiviti yang dicadangkan untuk unit ini ialah…",
+          [
+            "Draw a house and label three rooms.",
+            "Tidur sepanjang hari.",
+            "Tidak membuat sebarang aktiviti.",
+            "Melompat tanpa arahan."
           ],
           0
         ]
@@ -285,6 +825,86 @@
             "blue"
           ],
           0
+        ],
+        [
+          "Which one is clothing?",
+          [
+            "shirt",
+            "apple",
+            "pencil",
+            "ball"
+          ],
+          0
+        ],
+        [
+          "Complete: I am wearing a ___.",
+          [
+            "hat",
+            "run",
+            "blue",
+            "school"
+          ],
+          0
+        ],
+        [
+          "What do we wear on our feet?",
+          [
+            "shoes",
+            "hat",
+            "shirt",
+            "scarf"
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "shirt, trousers, shoes",
+            "I’m wearing…",
+            "colours",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "I’m wearing…",
+            "shirt, trousers, shoes",
+            "colours",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "colours",
+            "shirt, trousers, shoes",
+            "I’m wearing…",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Unit ini bertajuk “7 — Get Dressed”. Apakah fokus pembelajaran yang paling sesuai?",
+          [
+            "shirt, trousers, shoes",
+            "Membina roket ke angkasa.",
+            "Belajar berenang di kolam.",
+            "Bermain tanpa belajar."
+          ],
+          0
+        ],
+        [
+          "Aktiviti yang dicadangkan untuk unit ini ialah…",
+          [
+            "Choose clothes for a rainy day.",
+            "Tidur sepanjang hari.",
+            "Tidak membuat sebarang aktiviti.",
+            "Melompat tanpa arahan."
+          ],
+          0
         ]
       ]
     },
@@ -318,6 +938,86 @@
             "mouth"
           ],
           1
+        ],
+        [
+          "Which is a body part?",
+          [
+            "hand",
+            "table",
+            "book",
+            "ball"
+          ],
+          0
+        ],
+        [
+          "How many eyes do most people have?",
+          [
+            "two",
+            "one",
+            "three",
+            "four"
+          ],
+          0
+        ],
+        [
+          "Complete: I can see with my ___.",
+          [
+            "eyes",
+            "ears",
+            "hands",
+            "feet"
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "head, eyes, ears, nose, hands",
+            "This is my…",
+            "move / touch",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "This is my…",
+            "head, eyes, ears, nose, hands",
+            "move / touch",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Apakah perkara yang perlu kita kuasai dalam unit ini? (Pilih jawapan yang tepat.)",
+          [
+            "move / touch",
+            "head, eyes, ears, nose, hands",
+            "This is my…",
+            "Makan dan berehat sepanjang masa."
+          ],
+          0
+        ],
+        [
+          "Unit ini bertajuk “8 — The Body”. Apakah fokus pembelajaran yang paling sesuai?",
+          [
+            "head, eyes, ears, nose, hands",
+            "Membina roket ke angkasa.",
+            "Belajar berenang di kolam.",
+            "Bermain tanpa belajar."
+          ],
+          0
+        ],
+        [
+          "Aktiviti yang dicadangkan untuk unit ini ialah…",
+          [
+            "Label a body picture and say five body parts.",
+            "Tidur sepanjang hari.",
+            "Tidak membuat sebarang aktiviti.",
+            "Melompat tanpa arahan."
+          ],
+          0
         ]
       ]
     }
