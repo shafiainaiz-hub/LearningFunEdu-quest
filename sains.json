@@ -1,0 +1,101 @@
+{
+  "subject": "Sains Tahun 1",
+  "units": [
+    {
+      "title": "Unit 1 — Kemahiran Saintifik",
+      "lessons": [
+        {
+          "id": "sci-u1-l1",
+          "title": "Mari Memerhati",
+          "description": "Menggunakan deria untuk membuat pemerhatian.",
+          "questions": [
+            {
+              "question": "Apakah deria untuk melihat?",
+              "options": [
+                "Mata",
+                "Telinga",
+                "Hidung",
+                "Lidah"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Deria pendengaran menggunakan...",
+              "options": [
+                "Mata",
+                "Telinga",
+                "Kulit",
+                "Hidung"
+              ],
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Unit 2 — Benda Hidup",
+      "lessons": [
+        {
+          "id": "sci-u2-l1",
+          "title": "Hidup atau Bukan Hidup?",
+          "description": "Membezakan benda hidup dan bukan hidup.",
+          "questions": [
+            {
+              "question": "Yang manakah benda hidup?",
+              "options": [
+                "Kucing",
+                "Kerusi",
+                "Bola",
+                "Pensel"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Yang manakah bukan benda hidup?",
+              "options": [
+                "Pokok",
+                "Burung",
+                "Meja",
+                "Ikan"
+              ],
+              "answer": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Unit 3 — Haiwan",
+      "lessons": [
+        {
+          "id": "sci-u3-l1",
+          "title": "Kenali Haiwan",
+          "description": "Mengenal haiwan di sekeliling kita.",
+          "questions": [
+            {
+              "question": "Haiwan yang mempunyai sayap ialah...",
+              "options": [
+                "Burung",
+                "Kucing",
+                "Ikan",
+                "Kambing"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Haiwan yang hidup di air ialah...",
+              "options": [
+                "Ikan",
+                "Ayam",
+                "Kucing",
+                "Arnab"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "subject": "Matematik Tahun 1",
+  "units": [
+    {
+      "title": "Unit 1 — Nombor",
+      "lessons": [
+        {
+          "id": "math-u1-l1",
+          "title": "Kenali Nombor",
+          "description": "Mengenal dan membilang nombor.",
+          "questions": [
+            {
+              "question": "3 + 2 = ?",
+              "options": [
+                "4",
+                "5",
+                "6",
+                "7"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Nombor selepas 6 ialah...",
+              "options": [
+                "5",
+                "7",
+                "8",
+                "9"
+              ],
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Unit 2 — Tambah dan Tolak",
+      "lessons": [
+        {
+          "id": "math-u2-l1",
+          "title": "Tambah Mudah",
+          "description": "Menambah nombor kecil.",
+          "questions": [
+            {
+              "question": "4 + 3 = ?",
+              "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "5 + 1 = ?",
+              "options": [
+                "5",
+                "6",
+                "7",
+                "8"
+              ],
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Unit 3 — Bentuk",
+      "lessons": [
+        {
+          "id": "math-u3-l1",
+          "title": "Bentuk 2D",
+          "description": "Mengenal bentuk asas.",
+          "questions": [
+            {
+              "question": "Bentuk yang mempunyai 3 sisi ialah...",
+              "options": [
+                "Bulatan",
+                "Segi tiga",
+                "Segi empat sama",
+                "Segi empat tepat"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Bentuk tanpa sisi ialah...",
+              "options": [
+                "Bulatan",
+                "Segi tiga",
+                "Segi empat",
+                "Bujur"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

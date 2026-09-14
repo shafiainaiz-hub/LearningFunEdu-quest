@@ -1,0 +1,165 @@
+{
+  "subject": "English — Super Minds Year 1",
+  "units": [
+    {
+      "title": "Unit 0 — Friends",
+      "lessons": [
+        {
+          "id": "eng-u0-l1",
+          "title": "Hello, Friends!",
+          "description": "Greetings and introductions.",
+          "questions": [
+            {
+              "question": "What's your name?",
+              "options": [
+                "I'm Ali.",
+                "I'm seven.",
+                "It's a book.",
+                "Good night."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Which word is a greeting?",
+              "options": [
+                "Hello",
+                "Pencil",
+                "Run",
+                "Blue"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Unit 1 — At School",
+      "lessons": [
+        {
+          "id": "eng-u1-l1",
+          "title": "School Objects",
+          "description": "Common classroom vocabulary.",
+          "questions": [
+            {
+              "question": "Which is a school object?",
+              "options": [
+                "Pencil",
+                "Tiger",
+                "Cloud",
+                "Tree"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "This is a ___.",
+              "options": [
+                "book",
+                "run",
+                "happy",
+                "quickly"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Unit 2 — Let's Play",
+      "lessons": [
+        {
+          "id": "eng-u2-l1",
+          "title": "Let's Play!",
+          "description": "Play and action vocabulary.",
+          "questions": [
+            {
+              "question": "Choose the action word.",
+              "options": [
+                "Jump",
+                "Blue",
+                "Ball",
+                "Chair"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Let's ___!",
+              "options": [
+                "play",
+                "pencil",
+                "green",
+                "book"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Unit 3 — Pet Show",
+      "lessons": [
+        {
+          "id": "eng-u3-l1",
+          "title": "Pets",
+          "description": "Familiar animals.",
+          "questions": [
+            {
+              "question": "Which can be a pet?",
+              "options": [
+                "Cat",
+                "Desk",
+                "Pencil",
+                "Cup"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "It is a ___.",
+              "options": [
+                "dog",
+                "run",
+                "blue",
+                "jump"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Unit 4 — Lunchtime",
+      "lessons": [
+        {
+          "id": "eng-u4-l1",
+          "title": "Food",
+          "description": "Simple food vocabulary.",
+          "questions": [
+            {
+              "question": "Which is food?",
+              "options": [
+                "Rice",
+                "Ruler",
+                "Bag",
+                "Chair"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Choose the drink.",
+              "options": [
+                "Water",
+                "Book",
+                "Pencil",
+                "Desk"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
