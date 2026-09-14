@@ -1,13 +1,20 @@
-# TicerAinaaEdu Quest Tahun 1
+# TicerAinaaEdu Quest Tahun 1 — V6
 
-Website pembelajaran Tahun 1: Bahasa Melayu, English, Matematik dan Sains.
+Website pembelajaran Tahun 1 untuk Bahasa Melayu, English Year 1, Matematik dan Sains.
 
-## V5 — Teacher Dashboard
-- Profil murid, avatar, XP, level, streak dan badge
-- Dashboard guru untuk melihat kemajuan murid pada peranti semasa
-- Kemajuan mengikut subjek
-- Cetak laporan
-- Eksport laporan murid sebagai JSON
-- Semua data disimpan secara local dalam browser; tiada server/database diperlukan
+## Kandungan
+- 39 unit pembelajaran dikekalkan daripada V5.
+- Profil murid dengan avatar.
+- XP, bintang, level, streak dan badge.
+- Teacher Dashboard.
+- UI ceria dan responsif untuk iPad/telefon.
+- Mini-games: Kira Cepat dan Susun Perkataan.
+- Audio sebutan menggunakan Web Speech API jika disokong peranti.
+- Kuiz Pintar dengan rekod percubaan dan maklum balas berdasarkan skor.
+- Kemajuan disimpan dalam localStorage pada peranti/browser semasa.
 
-**Nota:** Dashboard ini belum mengumpulkan data antara peranti. Untuk kelas sebenar dengan ramai murid, versi seterusnya boleh menambah login dan pangkalan data.
+## GitHub Pages
+Semua fail berada di root repository. Upload/replace semua fail di root.
+
+## Nota
+Versi ini tidak memerlukan backend atau login. Data murid tidak dihantar ke server oleh aplikasi ini. Kandungan latihan ialah kandungan original untuk tujuan pembelajaran dan perlu disemak dengan bahan/DSKP sekolah jika digunakan sebagai bahan rasmi.
