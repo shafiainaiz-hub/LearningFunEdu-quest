@@ -1,14 +1,30 @@
-# Belajar Ceria Tahun 1 — Versi 2
+# Belajar Ceria Tahun 1 — Versi 2.1
 
-Laman web statik untuk GitHub Pages.
+Versi ini telah disesuaikan dengan struktur GitHub repository semasa: semua fail berada terus di root repository.
 
-## Cara guna
-1. Muat naik semua fail ke repository GitHub.
-2. Pastikan `index.html` berada di root repository.
-3. GitHub → Settings → Pages → Deploy from branch → pilih `main` / root.
-4. Buka URL GitHub Pages anda.
+Fail:
+- index.html
+- subjects.html
+- lesson.html
+- quiz.html
+- progress.html
+- style.css
+- app.js
+- bahasa-melayu.json
+- english-superminds.json
+- matematik.json
+- sains.json
+- README.md
 
-## Nota kandungan
-Struktur English menggunakan unit Super Minds yang telah dikenal pasti. Kandungan nota dan latihan dihasilkan secara original dan bukan salinan buku teks. Struktur BM, Matematik dan Sains dalam prototaip ini ialah contoh pembangunan dan perlu disemak semula dengan edisi buku teks/KPM yang digunakan sekolah sebelum dianggap sebagai pemetaan rasmi.
+## Cara kemas kini
+1. Buka repository GitHub.
+2. Pilih **Add file → Upload files**.
+3. Upload SEMUA fail dalam ZIP ini ke root repository.
+4. Jika GitHub bertanya Replace untuk fail yang sama, pilih Replace.
+5. Tekan **Commit changes**.
+6. Tunggu GitHub Pages deploy.
+7. Refresh laman.
 
-Versi ini menggunakan LocalStorage; tiada pangkalan data atau akaun murid diperlukan.
+Jangan masukkan fail-fail ini ke dalam folder tambahan.
+
+Kandungan latihan adalah original. Struktur English menggunakan unit Super Minds yang dikenal pasti; pemetaan penuh BM, Matematik dan Sains masih perlu disemak dengan edisi buku teks/KPM sekolah sebelum dianggap pemetaan rasmi.

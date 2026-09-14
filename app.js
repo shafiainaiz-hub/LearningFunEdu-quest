@@ -7,7 +7,7 @@ const SUBJECTS=[
 const key="belajarCeriaV2";
 function state(){return JSON.parse(localStorage.getItem(key)||'{"xp":0,"stars":0,"badges":[],"completed":[],"quizzes":0,"best":0}')}
 function save(s){localStorage.setItem(key,JSON.stringify(s))}
-async function getSubject(id){let x=SUBJECTS.find(a=>a.id===id);return await (await fetch("data/"+x.file)).json()}
+async function getSubject(id){let x=SUBJECTS.find(a=>a.id===id);return await (await fetch(x.file)).json()}
 function renderSubjects(id){
  let el=document.getElementById(id); el.innerHTML=SUBJECTS.map(s=>`<article class="card"><div class="subject-icon">${s.icon}</div><h3>${s.name}</h3><p>${s.desc}</p><a class="btn primary" href="lesson.html?subject=${s.id}">Buka subjek →</a></article>`).join("")
 }
