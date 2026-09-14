@@ -1,9 +1,13 @@
-# Belajar Ceria Tahun 1 — Versi 3.1
+# TicerAinaaEdu Quest Tahun 1
 
-Versi pembaikan untuk GitHub Pages. Kandungan 4 subjek menggunakan fail JSON di root.
+Website pembelajaran Tahun 1: Bahasa Melayu, English, Matematik dan Sains.
 
-## Penting
-- `app.js` dan fail JSON menggunakan cache-busting `?v=31` supaya GitHub Pages/Safari tidak terus memaparkan kandungan lama.
-- Semua fail berada di root repository.
-- Jika selepas upload masih nampak kandungan lama, tunggu deployment GitHub Pages selesai kemudian reload Safari.
-- Kandungan adalah bahan latihan original dan bukan salinan teks buku. Semak dengan DSKP/buku teks sekolah untuk penggunaan rasmi.
+## V5 — Teacher Dashboard
+- Profil murid, avatar, XP, level, streak dan badge
+- Dashboard guru untuk melihat kemajuan murid pada peranti semasa
+- Kemajuan mengikut subjek
+- Cetak laporan
+- Eksport laporan murid sebagai JSON
+- Semua data disimpan secara local dalam browser; tiada server/database diperlukan
+
+**Nota:** Dashboard ini belum mengumpulkan data antara peranti. Untuk kelas sebenar dengan ramai murid, versi seterusnya boleh menambah login dan pangkalan data.
